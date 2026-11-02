@@ -1,0 +1,6 @@
+{
+  "name": "Phantom Spoons NFC - Things Have Homes",
+  "description": "ADHD-friendly NFC item and home locator that logs designated storage spots and assists with rapid retrieval when misplaced.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
